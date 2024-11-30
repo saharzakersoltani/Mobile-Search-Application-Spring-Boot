@@ -1,4 +1,4 @@
-## Mobile Search Application
+# Mobile Search Application
 
 **Overview**
 
