@@ -1,6 +1,5 @@
 # Mobile Search Application
-
-## Overview
+**Overview**
 
 The Mobile Search Application is a RESTful API built with Spring Boot that allows users to search for mobile phones based on various criteria such as brand, color, and storage capacity. The application supports both AND and OR search logic, enabling flexible and dynamic filtering.
 
