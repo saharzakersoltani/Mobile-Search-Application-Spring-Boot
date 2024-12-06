@@ -17,6 +17,11 @@ The Mobile Search Application is a RESTful API built with Spring Boot that allow
 - Lightweight and easy to run with a simple configuration.
 
 -------------------
+## Search example
+![My Image](my-image.png)
+
+-------------
+
 
 ## Technologies Used
 - Java 17
